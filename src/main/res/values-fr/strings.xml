@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crypt Easy</string>
+    <string name="crypt_easy">CRYPT EASY</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="team">Equipe</string>
+    <string name="share">Partager</string>
+    <string name="enter_text_to_encrypt">Entrer le texte a crypter</string>
+    <string name="enter_text_to_decrypt">Entrer le texte a decrypter</string>
+    <string name="fidele_rodolph_phayendy_delon">Fidele Rodolph Phayendy Delon</string>
+    <string name="backend_dev">Developpeur Backend</string>
+    <string name="decrypt_key">Cle de Decryptage</string>
+    <string name="analyste">Analyste</string>
+    <string name="group_name">Nom du Groupe :</string>
+    <string name="teacher">Prof :</string>
+    <string name="university">Universite :</string>
+    <string name="urhc">URHC</string>
+    <string name="faculty">Faculte :</string>
+    <string name="computer_science">Science Informatique</string>
+    <string name="level">Niveau :</string>
+    <string name="iv">IV</string>
+    <string name="course">Cour :</string>
+    <string name="android">Android</string>
+    <string name="encrypt_key">Cle de Cryptage</string>
+    <string name="encrypt">Cryptage</string>
+    <string name="decrypt">Decryptage</string>
+    <string name="language">Langue</string>
+    <string name="elvarus_lovenjiminight">Elvarus Lovenjiminight</string>
+    <string name="saint_fort_guemanorah">Saint-Fort Guemanorah</string>
+    <string name="choose_encrypt_key">Choisir la cle de cryptage</string>
+    <string name="choose_decrypt_key">Choisir la cle de decryptage</string>
+</resources>

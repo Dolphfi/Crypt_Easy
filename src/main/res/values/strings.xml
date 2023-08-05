@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Crypt Easy</string>
+    <string name="crypt_easy">CRYPT EASY</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="team">Team</string>
+    <string name="share">Share</string>
+    <string name="enter_text_to_encrypt">Enter Text to Encrypt</string>
+    <string name="enter_text_to_decrypt">Enter Text to Decrypt</string>
+    <string name="fidele_rodolph_phayendy_delon">Fidele Rodolph Phayendy Delon</string>
+    <string name="backend_dev">Backend Dev</string>
+    <string name="decrypt_key">Decrypt key</string>
+    <string name="analyste">Analyst</string>
+    <string name="group_name">Group Name :</string>
+    <string name="teacher">Teacher :</string>
+    <string name="university">University :</string>
+    <string name="urhc">URHC</string>
+    <string name="faculty">Faculty :</string>
+    <string name="computer_science">Computer Science</string>
+    <string name="level">Level :</string>
+    <string name="iv">IV</string>
+    <string name="course">Course :</string>
+    <string name="android">Android</string>
+    <string name="encrypt_key">Encrypt key</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="language">Language</string>
+    <string name="elvarus_lovenjiminight">Elvarus Lovenjiminight</string>
+    <string name="saint_fort_guemanorah">Saint-Fort Guemanorah</string>
+    <string name="choose_encrypt_key">Choose the encrypt key</string>
+    <string name="choose_decrypt_key">Choose the decrypt key</string>
+</resources>

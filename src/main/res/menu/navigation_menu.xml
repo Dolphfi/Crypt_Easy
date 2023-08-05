@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuEncrypt"
+        android:icon="@drawable/ic_encryption"
+        android:title="@string/encrypt"/>
+
+    <item
+        android:id="@+id/menuDecrypt"
+        android:icon="@drawable/ic_no_encryption"
+        android:title="@string/decrypt"/>
+
+<!--    <item android:id="@+id/menuLangue"-->
+<!--        android:icon="@drawable/ic_language"-->
+<!--        android:title="@string/language"/>-->
+
+</menu>
